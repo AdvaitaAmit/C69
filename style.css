@@ -34,4 +34,16 @@ input
     float:right;
 }
 
+.earth{
+    margin-top: 15px;
+    
+}
 
+#girl{
+    width:200px;
+    height:200px;
+    border:2px solid;
+}
+.marker{
+    line-height: 2;
+}
